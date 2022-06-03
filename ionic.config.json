@@ -1,0 +1,7 @@
+{
+  "name": "onboarding-fadi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
